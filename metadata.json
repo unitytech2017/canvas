@@ -1,0 +1,5 @@
+{
+  "name": "MindCanvas",
+  "description": "A collaborative-style brainstorming whiteboard where you can draw, add sticky notes, and use AI to generate new ideas based on your current board.",
+  "requestFramePermissions": []
+}
